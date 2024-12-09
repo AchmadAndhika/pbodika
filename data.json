@@ -1,0 +1,20 @@
+{
+    "1": {
+        "id": "674c7f045e3ca",
+        "nama": "Shampoo",
+        "harga": "2.000",
+        "stok": "2"
+    },
+    "5": {
+        "id": "674d0b03184b6",
+        "nama": "Coklat",
+        "harga": "500",
+        "stok": "50"
+    },
+    "7": {
+        "id": "67570488d31af",
+        "nama": "Sabun Nuvo",
+        "harga": "2300",
+        "stok": "74"
+    }
+}
